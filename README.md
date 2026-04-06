@@ -1,4 +1,4 @@
-### Add this to your ~/.bashrc -
+### To use, add this to your ~/.bashrc -
 
 ```bash
 pyproj() {
